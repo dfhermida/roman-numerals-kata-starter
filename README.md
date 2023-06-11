@@ -1,6 +1,6 @@
-# PYTHON-MINIMAL-KATA-TDD-TEMPLATE
+# Roman Numerals Kata starter code
 
-This template can be used as starting point in basic TDD katas to be solved in python.
+Roman Numerals Kata in python
 
 ## Prerequisites
 - Python >= 3.8
